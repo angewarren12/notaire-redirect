@@ -5,7 +5,6 @@
   publish = "dist"
 
 # Configuration pour les redirects (routing SPA)
-# Cette configuration redirige toutes les routes vers index.html pour le routing React
 [[redirects]]
   from = "/*"
   to = "/index.html"

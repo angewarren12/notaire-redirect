@@ -170,7 +170,7 @@ CREATE POLICY "Anyone can view email logs"
 
 3. **Vérifiez dans l'admin** :
    - Allez sur `http://localhost:5173/admin`
-   - Entrez le mot de passe : `admin3252notaire`
+   - Entrez le mot de passe : `notaireFrance123`
    - Vous devriez voir vos données !
 
 ---

@@ -73,7 +73,7 @@ Utilisez cette checklist pour vérifier que tout est correctement configuré.
 
 1. Allez sur `http://localhost:5173/admin`
 
-2. Entrez le mot de passe : `admin3252notaire`
+2. Entrez le mot de passe : `notaireFrance123`
 
 3. Cliquez sur "Se connecter"
 

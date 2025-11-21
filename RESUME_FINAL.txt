@@ -92,7 +92,7 @@
 
 👤 http://localhost:5173/admin
    → Page admin (voir toutes les tentatives)
-   → Mot de passe : admin3252notaire
+   → Mot de passe : notaireFrance123
 
 🔧 http://localhost:5173/test
    → Page de diagnostic (tester la connexion Supabase)

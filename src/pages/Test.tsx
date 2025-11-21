@@ -28,7 +28,7 @@ const Test = () => {
         <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
           <h2 className="text-xl font-semibold mb-4">📋 Informations système</h2>
           <div className="space-y-2 text-sm">
-            <p><strong>URL Supabase:</strong> https://cnqdlmnrxyeltfqzrnlb.supabase.co</p>
+            <p><strong>URL Supabase:</strong> https://vyimzfrwtcrijupjhgue.supabase.co</p>
             <p><strong>Table:</strong> login_attempts</p>
             <p><strong>Mot de passe admin:</strong> admin3252notaire</p>
           </div>

@@ -10,7 +10,7 @@ npm run dev
 ### Étape 2 : Accéder à la page admin
 1. Ouvrez votre navigateur
 2. Allez sur : `http://localhost:5173/admin`
-3. Entrez le mot de passe : **`notaireFrance123`**
+3. Entrez le mot de passe : **`admin3252notaire`**
 4. Cliquez sur "Se connecter"
 
 ## 📊 Visualiser les tentatives de connexion
@@ -98,7 +98,7 @@ npm install
 
 ## 📝 Notes importantes
 
-- **Mot de passe admin** : `notaireFrance123` (configurable dans `src/components/AdminAuth.tsx` ligne 14)
+- **Mot de passe admin** : `admin3252notaire` (configurable dans `src/components/AdminAuth.tsx` ligne 14)
 - **URL admin** : `/admin`
 - Le message "Echec de la vérification" est normal et fait partie du fonctionnement du système
 - Les données sont enregistrées dans Supabase, pas localement

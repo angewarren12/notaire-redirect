@@ -41,7 +41,7 @@ J'ai identifié et corrigé plusieurs problèmes :
 
 4. Allez sur : **`http://localhost:5173/admin`**
 
-5. Entrez le mot de passe admin : **`notaireFrance123`**
+5. Entrez le mot de passe admin : **`admin3252notaire`**
 
 6. Vous devriez voir vos données dans le tableau !
 
@@ -92,7 +92,7 @@ Vérifiez le fichier `src/integrations/supabase/client.ts` :
 
 ## 🔐 Informations importantes
 
-- **Mot de passe admin** : `notaireFrance123`
+- **Mot de passe admin** : `admin3252notaire`
 - **URL Supabase** : `https://cnqdlmnrxyeltfqzrnlb.supabase.co`
 - **Table** : `login_attempts`
 

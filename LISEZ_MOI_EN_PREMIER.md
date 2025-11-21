@@ -38,7 +38,7 @@ Ouvrez le fichier **`CREATE_TABLE_login_attempts.sql`** dans ce projet et copiez
 
 Après ces 5 étapes :
 - ✅ Le formulaire enregistrera les tentatives de connexion
-- ✅ Vous pourrez les voir dans `/admin` (mot de passe : `notaireFrance123`)
+- ✅ Vous pourrez les voir dans `/admin` (mot de passe : `admin3252notaire`)
 - ✅ Plus d'erreur "Could not find the table"
 
 ---
@@ -138,7 +138,7 @@ Une fois que tout fonctionne, vous pourrez :
 - Surveiller en temps réel
 - Utiliser le bouton "Rafraîchir" pour actualiser
 
-**Mot de passe admin : `notaireFrance123`**
+**Mot de passe admin : `admin3252notaire`**
 
 ---
 

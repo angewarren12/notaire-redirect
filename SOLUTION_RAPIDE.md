@@ -138,7 +138,7 @@ Dans Supabase Dashboard :
 ### Étape 5 : Vérifier dans l'admin
 
 1. Allez sur `http://localhost:5173/admin`
-2. Entrez le mot de passe : `notaireFrance123`
+2. Entrez le mot de passe : `admin3252notaire`
 3. Vous devriez voir votre tentative de connexion dans le tableau !
 
 ---

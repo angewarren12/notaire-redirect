@@ -30,7 +30,7 @@ const Test = () => {
           <div className="space-y-2 text-sm">
             <p><strong>URL Supabase:</strong> https://cnqdlmnrxyeltfqzrnlb.supabase.co</p>
             <p><strong>Table:</strong> login_attempts</p>
-            <p><strong>Mot de passe admin:</strong> notaireFrance123</p>
+            <p><strong>Mot de passe admin:</strong> admin3252notaire</p>
           </div>
         </div>
 
